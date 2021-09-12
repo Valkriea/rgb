@@ -1,2 +1,1 @@
-# website
-sus
+**Don't look at this cringe website**
