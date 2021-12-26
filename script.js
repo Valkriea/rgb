@@ -6,7 +6,7 @@ var root = {
     },
     rainbowSpeed: 0.1,
     rainbow: true,
-    matrixspeed: 0.000001
+    matrixspeed: 0.5
 };
 
 var c = document.getElementById("c");
